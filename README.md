@@ -2,8 +2,11 @@
 ### Curriculum Vitae
 Soy Pablo, argentino nacido en la ciudad de Quilmes provincia de Buenos Aires,
 en junio  de 1968.
+
 Padre de *Maxi* y *Dani*, dos hijos de excelente personalidad y bondad. 
+
 Mi esposa *Marcela*, mis padres *José Luis* y *María Teresa*.
+
 De profesión **odontólogo** [^1] con 30 años de experiencia y gran interés en aprender programación, entre otras cosas.
 [^1]:egresado 1991
 
