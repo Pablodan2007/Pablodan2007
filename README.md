@@ -46,6 +46,7 @@ Materiales utilizados
 - [ ] preventiva
 - [ ] periodoncia
 
+:hugs:  :smiley:
 :tent: debería mostrar emoji de una carpa
 // el caracter : indica la alineación del contenido columna//
 // ~~palabra tachada~~ //
