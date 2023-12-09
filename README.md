@@ -46,8 +46,7 @@ Materiales utilizados
 - [ ] preventiva
 - [ ] periodoncia
 
-:hugs:  :smiley:
-:tent: debería mostrar emoji de una carpa
+:hugs:  :smiley: :tent:  //codigo emoji entre: :
 // el caracter : indica la alineación del contenido columna//
 // ~~palabra tachada~~ //
 // **negrita con _itálica_ dentro** //
