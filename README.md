@@ -1,5 +1,5 @@
 # Pablo Daniel 
-### Curriculum Vitae
+### Presentándome
 
 Soy Pablo, argentino nacido en la ciudad de Quilmes provincia de Buenos Aires,
 en junio  de 1968.
@@ -8,23 +8,25 @@ Padre de *Maxi* y *Dani*, dos hijos de excelente personalidad y bondad.
 
 Mi esposa *Marcela*, mis padres *José Luis* y *María Teresa*.
 
-De profesión **odontólogo** [^1] con 30 años de experiencia y gran interés en aprender programación, entre otras cosas.
+De profesión **odontólogo** [^1] con 30 años de experiencia y gran interés en aprender a programar, entre otras cosas.
 [^1]:egresado 1991
 
 
-| exp laboral | año inicio | última fecha |
+| Exp laboral | Año inicio | Última fecha |
 | :----------- | -------:| :---------: |
 | Uba | 1992 | 1998 |
 | hospital quilmes | 1992 |1993 |
 | consult privado | 1993 | actualidad |
 
 > Universidad Buenos Aires: colaborador nombrado T P
+> 
 > Hospital: "asistencia ad honorem"
+> 
 > Práctica privada: clínicas y locación propia
 
 [UBA] (https://www.uba.ar/).
 
-Materiales utilizados
+Capacitación en aplicación de distintos materiales
 * Amalgama
 * Agujas
 * Instrumental cirugía
@@ -39,14 +41,15 @@ Materiales utilizados
    * Tph
    * Densply
  
-## Práctica
+## Práctica diaria
 ### Lista de tareas
 - [ ] extraccion
 - [ ] restauración
 - [ ] preventiva
 - [ ] periodoncia
 
-:hugs:  :smiley: :tent:  //codigo emoji entre: :
+// anotaciones personales
+// :hugs:  :smiley: :tent:  //codigo emoji entre: :
 // el caracter : indica la alineación del contenido columna//
 // ~~palabra tachada~~ //
 // **negrita con _itálica_ dentro** //
