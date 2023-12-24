@@ -49,8 +49,8 @@ Capacitación en aplicación de distintos materiales
 - [ ] preventiva
 - [ ] periodoncia
 
-// anotaciones personales
-// :hugs:  :smiley: :tent:  //codigo emoji entre: :
+// anotaciones personales, otros ejemplos de markdown:
+// :hugs:  :smiley: :tent: son codigo emoji y va entre: :
 // el caracter : indica la alineación del contenido columna//
 // ~~palabra tachada~~ //
 // **negrita con _itálica_ dentro** //
